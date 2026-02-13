@@ -34,7 +34,7 @@ footer{text-align:center;padding:20px;background:black;border-top:3px solid red;
 
 /*Logo Design*/
 .site-logo {
-  position: fixed;
+  position: absolute;
   top: 30px;
   right: 30px;
   width: auto;
