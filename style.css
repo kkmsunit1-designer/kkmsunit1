@@ -37,8 +37,8 @@ footer{text-align:center;padding:20px;background:black;border-top:3px solid red;
   position: fixed;
   top: 30px;
   right: 30px;
-  width: 150px;
-  height: auto;
+  width: auto;
+  height: 80px;
   z-index: 1000;
 }
 .site-logo:hover {
