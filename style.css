@@ -31,3 +31,15 @@ footer{text-align:center;padding:20px;background:black;border-top:3px solid red;
 .progress-images {display: flex;gap: 15px;        /* space between photos */margin-bottom: 10px;}
 .progress-images img {width: 30%;       /* 3 photos side by side */border-radius: 12px;object-fit: cover;box-shadow: 0 4px 10px rgba(0,0,0,0.1);transition: transform 0.3s;}
 .progress-images img:hover {transform: scale(1.05);}
+.site-logo {
+  position: fixed;
+  top: 10px;
+  right: 15px;
+  width: 120px;
+  height: auto;
+  z-index: 1000;
+}
+.site-logo:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s;
+}
