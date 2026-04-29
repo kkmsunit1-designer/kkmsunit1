@@ -51,4 +51,13 @@ footer .email-link,
 footer .phone-num-link {
   color: #73c2fb;
   font-weight: bold;
+  text-decoration: none;
 }
+footer .email-link:hover,
+footer .phone-num-link:hover
+  {
+    color: #73c2fb;
+    text-decoration: underline;
+  }
+
+  
