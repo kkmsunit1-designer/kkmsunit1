@@ -45,3 +45,10 @@ footer{text-align:center;padding:20px;background:black;border-top:3px solid red;
   transform: scale(1.1);
   transition: transform 0.3s;
 }
+
+/*footer colour*/
+footer .email-link,
+footer .phone-num-link {
+  color: #73c2fb;
+  font-weight: bold;
+}
